@@ -1,4 +1,4 @@
-package com.dgmodels.lojaRoupas;
+package com.dmgmodels.lojaRoupas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

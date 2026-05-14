@@ -8,7 +8,7 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dgmodels</groupId>
+	<groupId>com.dmgmodels</groupId>
 	<artifactId>lojaRoupas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
@@ -26,11 +26,9 @@
 		<tag/>
 		<url/>
 	</scm>
-    <properties>
-        <java.version>21</java.version>
-        <maven.compiler.source>24</maven.compiler.source>
-        <maven.compiler.target>24</maven.compiler.target>
-    </properties>
+	<properties>
+		<java.version>21</java.version>
+	</properties>
 	<dependencies>
 
         <dependency>

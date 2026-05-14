@@ -1,4 +1,4 @@
-package com.dgmodels.lojaRoupas.model;
+package com.dmgmodels.lojaRoupas.model;
 
 public enum Tamanho {
     PP,
